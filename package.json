@@ -1,0 +1,15 @@
+{
+  "name": "blog-platform",
+  "version": "1.0.0",
+  "description": "Premium full-stack Blogging Platform with Comments",
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "seed": "npm run seed --prefix server",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "npx concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
