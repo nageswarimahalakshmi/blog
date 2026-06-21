@@ -2,7 +2,7 @@
 
 A premium, full-stack, responsive blogging platform web application. The project features a React frontend client and an Express/Node.js backend server connecting to MongoDB Atlas for article cataloging, customer comments interaction, and user profile management.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Local_Server-6366f1?style=for-the-badge)](http://localhost:5175/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Local_Server-6366f1?style=for-the-badge)](https://blog-maha9.vercel.app/)
 [![Vite](https://img.shields.io/badge/Vite-React-FFD600?style=for-the-badge&logo=vite)](https://vite.dev)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
 
@@ -12,7 +12,7 @@ A premium, full-stack, responsive blogging platform web application. The project
 
 > The application is locally hosted and accessible at:
 
-**🔗 [AntigravityBlog - Localhost Webpage](http://localhost:5175/)**
+**🔗 [AntigravityBlog ](https://blog-maha9.vercel.app/)**
 
 ---
 
